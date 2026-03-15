@@ -7,7 +7,7 @@
 - Requirements
 - Configuration
 - Building the Firmware
-- Flashing the Board
+- Flashing the Board 
 - Running the System
 - Runtime Flow
 - Device Log Format
